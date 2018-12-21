@@ -1,0 +1,27 @@
+D:\Data\Amaan\Dokumente\Projekte\Visual Studio\Server of things\Server of things\bin\Debug\Server of things.exe.config
+D:\Data\Amaan\Dokumente\Projekte\Visual Studio\Server of things\Server of things\bin\Debug\Server of things.exe
+D:\Data\Amaan\Dokumente\Projekte\Visual Studio\Server of things\Server of things\bin\Debug\Server of things.pdb
+D:\Data\Amaan\Dokumente\Projekte\Visual Studio\Server of things\Server of things\obj\Debug\Server of things.csprojResolveAssemblyReference.cache
+D:\Data\Amaan\Dokumente\Projekte\Visual Studio\Server of things\Server of things\obj\Debug\Server_of_things.Form1.resources
+D:\Data\Amaan\Dokumente\Projekte\Visual Studio\Server of things\Server of things\obj\Debug\Server_of_things.Properties.Resources.resources
+D:\Data\Amaan\Dokumente\Projekte\Visual Studio\Server of things\Server of things\obj\Debug\Server of things.csproj.GenerateResource.Cache
+D:\Data\Amaan\Dokumente\Projekte\Visual Studio\Server of things\Server of things\obj\Debug\Server of things.exe
+D:\Data\Amaan\Dokumente\Projekte\Visual Studio\Server of things\Server of things\obj\Debug\Server of things.pdb
+C:\Users\Amaan\Documents\Visual Studio 2015\Projects\Server of things\Server of things\bin\Debug\Server of things.exe.config
+C:\Users\Amaan\Documents\Visual Studio 2015\Projects\Server of things\Server of things\obj\Debug\Server of things.exe
+C:\Users\Amaan\Documents\Visual Studio 2015\Projects\Server of things\Server of things\obj\Debug\Server of things.pdb
+C:\Users\Amaan\Documents\Visual Studio 2015\Projects\Server of things\Server of things\bin\Debug\Server of things.exe
+C:\Users\Amaan\Documents\Visual Studio 2015\Projects\Server of things\Server of things\bin\Debug\Server of things.pdb
+C:\Users\Amaan\Documents\Visual Studio 2015\Projects\Server of things\Server of things\obj\Debug\Server of things.csprojResolveAssemblyReference.cache
+C:\Users\Amaan\Documents\Visual Studio 2015\Projects\Server of things\Server of things\obj\Debug\Server_of_things.Form1.resources
+C:\Users\Amaan\Documents\Visual Studio 2015\Projects\Server of things\Server of things\obj\Debug\Server_of_things.Properties.Resources.resources
+C:\Users\Amaan\Documents\Visual Studio 2015\Projects\Server of things\Server of things\obj\Debug\Server of things.csproj.GenerateResource.Cache
+D:\Data\Amaan\Documents\Visual Studio 2015\Projects\Server of things\Server of things\bin\Debug\Server of things.exe.config
+D:\Data\Amaan\Documents\Visual Studio 2015\Projects\Server of things\Server of things\obj\Debug\Server of things.exe
+D:\Data\Amaan\Documents\Visual Studio 2015\Projects\Server of things\Server of things\obj\Debug\Server of things.pdb
+D:\Data\Amaan\Documents\Visual Studio 2015\Projects\Server of things\Server of things\obj\Debug\Server of things.csprojResolveAssemblyReference.cache
+D:\Data\Amaan\Documents\Visual Studio 2015\Projects\Server of things\Server of things\obj\Debug\Server_of_things.Form1.resources
+D:\Data\Amaan\Documents\Visual Studio 2015\Projects\Server of things\Server of things\obj\Debug\Server_of_things.Properties.Resources.resources
+D:\Data\Amaan\Documents\Visual Studio 2015\Projects\Server of things\Server of things\obj\Debug\Server of things.csproj.GenerateResource.Cache
+D:\Data\Amaan\Documents\Visual Studio 2015\Projects\Server of things\Server of things\bin\Debug\Server of things.exe
+D:\Data\Amaan\Documents\Visual Studio 2015\Projects\Server of things\Server of things\bin\Debug\Server of things.pdb
